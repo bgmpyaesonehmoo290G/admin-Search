@@ -23,11 +23,11 @@ printf "\e[96m
 '   ║╬║╔╦╗╔═╗─╔═╗║══╣╔═╗╔═╦╗╔═╗║╚╝║╔══╗╔═╗╔═╗'
 '   ║╔╝║║║║╬╚╗║╩╣╠══║║╬║║║║║║╩╣║╔╗║║║║║║╬║║╬║'
 '   ╚╝─╠╗║╚══╝╚═╝╚══╝╚═╝╚╩═╝╚═╝╚╝╚╝╚╩╩╝╚═╝╚═╝'
-'   ───╚═╝───────────────────────────\n')
+'   ───╚═╝───────────────────────────')
 "
 print
 url = input('Enter your terget: ')
-with open('pyae.txt', 'r') as wor:
+with open('Pyae.txt', 'r') as wor:
         for line in wor.readlines():
                 line = line.strip()
                 req = (url + '/' + line)
