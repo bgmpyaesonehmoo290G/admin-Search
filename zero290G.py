@@ -1,5 +1,5 @@
 import requests, sys, pyfiglet, time, termcolor
-print (pyfiglet.figlet_format('AdminScanner'))
+print (pyfiglet.figlet_format('admin-Search'))
 printf "\e[96m
  '    ██░▀██████████████▀░██'
 '      █▌▒▒░████████████░▒▒▐█'
@@ -27,7 +27,7 @@ printf "\e[96m
 "
 print
 url = input('Enter your terget: ')
-with open('Pyae.txt', 'r') as wor:
+with open('pyae.txt', 'r') as wor:
         for line in wor.readlines():
                 line = line.strip()
                 req = (url + '/' + line)
