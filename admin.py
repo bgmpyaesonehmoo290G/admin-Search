@@ -1,8 +1,12 @@
 import requests, sys, pyfiglet, time, termcolor
 print (pyfiglet.figlet_format('AdminScanner'))
-print (termcolor.colored('Author	:	LuciferPy', 'yellow'))
-print (termcolor.colored('Github	:	github.com/LuciferPy', 'yellow'))
-print (termcolor.colored('Mail	:	luciferpy60@gmail.com', 'yellow'))
+print (termcolor.colored('Author	:	🄿🅈🄰🄴 🅂🄾🄽🄴 🄷🄼🄾🄾', 'yellow'))
+print (termcolor.colored('Github	:	github.com/bgmpyaesonehmoo', 'yellow'))
+print (termcolor.colored('	:	        ╔═╗─────────╔═══╗╔═══╗╔═══╗╔══╗\n'
+'	                                        ╠═║╔═╗╔╦╗╔═╗║╔═╗║║╔═╗║║╔═╗║║╔═╣\n'
+'	                                        ║═╣║╩╣║╔╝║╬║╚╝╔╝║║╚═╝║║║║║║║╚╗║\n'
+'	                                        ╚═╝╚═╝╚╝─╚═╝╔═╝╔╝╚══╗║║║║║║╚══╝\n'
+'	                                        ────────────║║╚═╗╔══╝║║╚═╝║────\n') '', 'yellow'))
 print
 url = input('Enter your terget: ')
 with open('adminlist.txt', 'r') as wor:
