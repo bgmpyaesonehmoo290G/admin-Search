@@ -1,27 +1,4 @@
-echo -e "\e[1;31m //////////     //////////      //////////// \e[0m"
-echo ""
-echo -e "\e[1;31m ///     ///    ///      ///    /// \e[0m"
-echo ""
-echo -e "\e[1;31m ///      ///   ///       ///   /// \e[0m"
-echo ""
-echo -e "\e[1;31m //////////     ///       ///   ///////// \e[0m"
-echo ""
-echo -e "\e[1;31m ///     ///    ///      ///   /// \e[0m"
-echo ""
-echo -e "\e[1;31m ///      ///   ///      ///   /// \e[0m"
-echo ""
-echo -e "\e[1;31m ///////////xxxxx//////////xxxxx/// \e[1;32m Admin Panel Finder \e[0m"
-echo -e "\e[1;37m _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \e[0m"
-echo ""
-echo -e "\e[1;36                    [*]Burmese Demon Force[*] \e[0m"
-echo -e "\e[1;37m _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \e[0m"
-echo ""
-echo -e "\e[1;33m Coder    : \e[1;35m Z847HG,RH4P50DY \e[0m"
-echo -e '\e[1;33m Page link: \e[1;35m https://www.facebook.com/BurmeseDemomForce/ \e[0m'
-echo ""
-password=BurmeseDemonForce
-read -sp $'\e[1;31m Enter Tool password:: \e[0m' pass
-if [ $pass == $password ];then
+
 clear
 echo -e "\e[1;31m //////////     //////////      //////////// \e[0m"
 echo ""
