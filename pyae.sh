@@ -1,6 +1,5 @@
 
 clear
- Admin Panel Finder \e[0m"
 echo -e "\e[1;37m _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \e[0m"
 echo ""
 echo -e "\e[1;36                    We are Myanmar 😼 \e[0m"
