@@ -2,5 +2,5 @@
 # Installion
 #git clone https://github.com/bgmpyaesonehmoo290G/admin-Search
 cd admin-Search
-python admin.py
+bash pyae.sh
 ❣️❣️❣️❣️❣️❣️
